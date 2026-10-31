@@ -1,4 +1,4 @@
-# Kyleric
+# GCU Fanfic
 Fanfic repo for non-Hollanov fics during the AO3 outage and for archive and sharing.
 This isn't meant for hating on Hollanov, it's just a note that it can be hard to find fics for the other couples, especially Ryan and Fabian, Kyle and Eric, and Troy and Harris. Scott and Kip fics are allowed, but with preference toward rarepairs and nonmonogamy. Shane and Ilya are of course welcome as a couple or separately as side characters or in non-canon pairings!
 

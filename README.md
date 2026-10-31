@@ -1,5 +1,8 @@
 # Kyleric
-Fanfic repo for Kyle and Eric fics during the AO3 outage and for archive
+Fanfic repo for non-Hollanov fics during the AO3 outage and for archive and sharing.
+This isn't meant for hating on Hollanov, it's just a note that it can be hard to find fics for the other couples, especially Ryan and Fabian, Kyle and Eric, and Troy and Harris. Scott and Kip fics are allowed, but with preference toward rarepairs and nonmonogamy. Shane and Ilya are of course welcome as a couple or separately as side characters or in non-canon pairings!
+
+Neither I nor any contributors to this project own any of the characters or settings referenced in these works. The characters are owned by Rachel Reid
 
 ANYTHING PUBLISHED TO THIS REPOSITORY IS SUBJECT TO THE CREATIVE COMMONS ATTRIBUTION-SHAREALIKE LICENSE. In short, this means any and all derivative works are allowed, but the original authors must be credited, and derivative works may not be shared with any stricter licensing than this. Do not post to this repository, or create derivative works from the works in this repository, unless you are comfortable with others creating derivatives based on your works. For more information, visit the link before, or view the [LICENSE](https://github.com/chaosraine/Kyleric/blob/main/LICENSE) 
 
